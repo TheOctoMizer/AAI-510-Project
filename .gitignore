@@ -2,3 +2,5 @@
 Datasets
 *.pdf
 .DS_Store
+.idea
+*model*
