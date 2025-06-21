@@ -1,0 +1,152 @@
+[
+  {
+    "language": "en",
+    "text": "I love this product, it works perfectly!",
+    "expected_label": "positive"
+  },
+  {
+    "language": "en",
+    "text": "Worst experience ever. Totally disappointed.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "en",
+    "text": "Absolutely fantastic! Highly recommend it.",
+    "expected_label": "positive"
+  },
+  {
+    "language": "en",
+    "text": "Not worth the price at all.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "en",
+    "text": "Great service and quick delivery!",
+    "expected_label": "positive"
+  },
+  {
+    "language": "en",
+    "text": "The product stopped working after a week.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "en",
+    "text": "Superb quality and amazing value.",
+    "expected_label": "positive"
+  },
+  {
+    "language": "en",
+    "text": "Terrible customer support, I won’t buy again.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "en",
+    "text": "Exceeded my expectations in every way.",
+    "expected_label": "positive"
+  },
+  {
+    "language": "en",
+    "text": "I regret buying this. Waste of money.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "fr",
+    "text": "Ce produit est incroyable, je l'adore !",
+    "expected_label": "positive"
+  },
+  {
+    "language": "fr",
+    "text": "Très mauvaise qualité, je suis déçu.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "fr",
+    "text": "Service rapide et efficace, merci !",
+    "expected_label": "positive"
+  },
+  {
+    "language": "fr",
+    "text": "Je ne recommande pas cet article.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "fr",
+    "text": "Le personnel était très gentil et serviable.",
+    "expected_label": "positive"
+  },
+  {
+    "language": "fr",
+    "text": "C'est une perte de temps et d'argent.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "fr",
+    "text": "Livraison rapide et produit conforme.",
+    "expected_label": "positive"
+  },
+  {
+    "language": "fr",
+    "text": "Le produit est arrivé cassé. Très déçu.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "fr",
+    "text": "Expérience formidable du début à la fin.",
+    "expected_label": "positive"
+  },
+  {
+    "language": "fr",
+    "text": "Mauvais service client et produit inutilisable.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "pt",
+    "text": "Adorei este produto, funciona perfeitamente!",
+    "expected_label": "positive"
+  },
+  {
+    "language": "pt",
+    "text": "O produto veio com defeito. Decepcionado.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "pt",
+    "text": "Entrega super rápida e produto ótimo.",
+    "expected_label": "positive"
+  },
+  {
+    "language": "pt",
+    "text": "Não recomendo, péssima qualidade.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "pt",
+    "text": "Excelente atendimento e produto maravilhoso.",
+    "expected_label": "positive"
+  },
+  {
+    "language": "pt",
+    "text": "Desperdício de dinheiro. Arrependido.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "pt",
+    "text": "Muito satisfeito com a minha compra!",
+    "expected_label": "positive"
+  },
+  {
+    "language": "pt",
+    "text": "O suporte ao cliente é horrível.",
+    "expected_label": "negative"
+  },
+  {
+    "language": "pt",
+    "text": "Compra perfeita, sem problemas.",
+    "expected_label": "positive"
+  },
+  {
+    "language": "pt",
+    "text": "Nunca mais compro nesta loja.",
+    "expected_label": "negative"
+  }
+]
